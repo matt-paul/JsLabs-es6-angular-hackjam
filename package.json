@@ -7,7 +7,7 @@
     "start": "live-server",
     "server": "nodemon server/",
     "deploy": "surge",
-    "es6": "webpack -w"
+    "build": "webpack -w"
   },
   "keywords": [
     "angular",
@@ -15,12 +15,13 @@
     "philos.io",
     "javascript",
     "hack jam",
-    "es6 or es2015"
+    "es6 or es2015 or whatever"
   ],
   "author": "davy@philos.io",
   "license": "MIT",
   "dependencies": {
-    "angular-route": "^1.4.9"
+    "angular": "^1.5.0",
+    "angular-route": "^1.5.0"
   },
   "devDependencies": {
     "babel-core": "^6.4.5",
