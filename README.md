@@ -9,7 +9,7 @@ To deploy it, you can use surge.sh (`npm run deploy`)
 
 ### Tools:
 
-[![Join the chat at https://gitter.im/Philos-io/hackjam-es6-angular](https://badges.gitter.im/Philos-io/hackjam-es6-angular.svg)](https://gitter.im/Philos-io/hackjam-es6-angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/Philos-io/hackjam-es6-angular-london](https://badges.gitter.im/Philos-io/hackjam-es6-angular.svg)](https://gitter.im/Philos-io/hackjam-es6-angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * Webpack
 * Babel
 * nodemon
@@ -20,9 +20,11 @@ To deploy it, you can use surge.sh (`npm run deploy`)
 
 ### How to use the repository
 
-`git clone https://github.com/Philos-io/hacm-es6-angular.git` && `npm install`
+`git clone https://github.com/Philos-io/hackjam-es6-angular-london.git` && `npm install`
 
 Now you can run your application by running: `npm start`
+
+In order to use ES6 you should run `npm run build`
 
 Have fun!
 
