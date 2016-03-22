@@ -1,5 +1,4 @@
 (function(){
-  'use strict';
 
   BookFactory.$inject = ['$http'];
 
@@ -37,5 +36,5 @@
     };
   }
 
-  angular.module('bookstore').factory('BookFactory', BookFactory);
+  angular.module('book').factory('BookFactory', BookFactory);
 })();

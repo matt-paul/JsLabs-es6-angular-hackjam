@@ -1,5 +1,2 @@
-(function() {
-  'use strict';
+export var book =  angular.module('book', []);
 
-  angular.module('book', []);
-})();
